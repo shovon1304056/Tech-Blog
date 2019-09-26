@@ -1,0 +1,8 @@
+[Mon 08-07-2019 10:52:39] [Client : ::1] [URI : /wordpress/registration/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : send_admin_notifications] [Line : 3497] [File : C:\Bitnami\wordpress-5.2.2-0_final\apps\wordpress\htdocs\wp-content\plugins\pie-register\pie-register.php]
+
+[Mon 08-07-2019 10:52:40] [Client : ::1] [URI : /wordpress/registration/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : pie_save_registration] [Line : 3363] [File : C:\Bitnami\wordpress-5.2.2-0_final\apps\wordpress\htdocs\wp-content\plugins\pie-register\pie-register.php]
+
+[Mon 08-07-2019 10:53:48] [Client : ::1] [URI : /wordpress/registration/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : send_admin_notifications] [Line : 3497] [File : C:\Bitnami\wordpress-5.2.2-0_final\apps\wordpress\htdocs\wp-content\plugins\pie-register\pie-register.php]
+
+[Mon 08-07-2019 10:53:49] [Client : ::1] [URI : /wordpress/registration/] [error] 'The e-mail could not be sent. Possible reason: mail() function may have disabled by your host.' [Function : pie_save_registration] [Line : 3363] [File : C:\Bitnami\wordpress-5.2.2-0_final\apps\wordpress\htdocs\wp-content\plugins\pie-register\pie-register.php]
+
